@@ -4,4 +4,4 @@ Hi there :sunglasses:
 - 🌱 I’m currently learning Python and data science libraries ...
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: @cristinajlucin (Twitter)
-- 💬 Ask me about : Tennis, Boston Sight-Seeing, or Classic Cars
+- 💬 Ask me about : Tennis, New England, or Classic Cars
