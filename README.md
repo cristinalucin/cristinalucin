@@ -4,4 +4,4 @@ Hi there :sunglasses:
 - 🌱 I’m currently learning Python and mySQL ...
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: @cristinajlucin (Twitter)
-- 💬 Ask me about : Data Science, Tennis, or 1900-2000s German Cars!
+- 💬 Ask me about : Data Science, Tennis, or 1990-2000s German Cars!
